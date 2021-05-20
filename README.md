@@ -1,7 +1,7 @@
-# ionic-food-example
+# ionic-fast-food-app
 An example of a Food Ordering app in Ionic React
 
-![Ionic React Food Ordering App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
+![Ionic React Fast Food Ordering App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
 
 ### Included in this Ionic React Template/UI
 * Data fetching from JSON files
