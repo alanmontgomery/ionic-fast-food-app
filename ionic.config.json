@@ -1,0 +1,7 @@
+{
+  "name": "ionic-food-example",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

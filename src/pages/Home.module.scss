@@ -1,0 +1,137 @@
+.homePage ion-toolbar {
+
+    --border-style: none;
+}
+
+.logo {
+
+    margin-top: 0.25rem;
+    color: var(--ion-color-primary);
+}
+
+.categoryCard,
+.categoryCardContent {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+
+.categoryCardContent ion-button {
+
+    height: 1.5rem;
+    font-size: 0.8rem;
+}
+
+.categoryCardContent {
+
+    background-color: rgb(238, 238, 238);
+}
+
+.categoryCardContent ion-card-subtitle {
+
+    /* color: rgb(78, 78, 78); */
+}
+
+.categoryCard img {
+
+    /* border-radius: 5px; */
+    padding: 1rem;
+}
+
+.categorySlider {
+
+    margin-top: 1rem;
+
+    ion-slide {
+
+        width: 60%;
+        margin-right: 10px;
+        margin-left: 10px;
+
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+
+        img {
+
+            border-radius: 22px;
+        }
+    }
+}
+
+.categorySquares {
+
+    ion-row {
+
+        .categorySquare {
+
+            height: 4.5rem;
+            text-align: center;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+            align-items: center;
+            border-radius: 22px;
+
+            h4 {
+
+                text-align: center;
+            }
+        }
+
+        .categorySquare:nth-child(1) {
+
+            background-color: rgb(105, 62, 5);
+            color: white;
+        }
+
+        .categorySquare:nth-child(2) {
+
+            background-color: rgb(83, 185, 0);
+            color: white;
+        }
+
+        .categorySquare:nth-child(3) {
+
+            background-color: rgb(255, 240, 24);
+        }
+    }
+}
+
+.orderSection {
+
+    padding: 2rem;
+    background-color: rgb(206, 41, 0);
+    color: white;
+    border-radius: 22px;
+    margin: 5px;
+
+    h4 {
+
+        margin-left: 1.5rem;
+    }
+}
+
+.offerSection {
+
+    padding: 2rem;
+    background-color: #ffd146;
+    color: black;
+    border-radius: 22px;
+    margin: 5px;
+
+    h4,
+    ion-card-subtitle {
+
+        margin-left: 1.5rem;
+    }
+
+    ion-card-subtitle {
+
+        color: rgb(255, 255, 255);
+        font-weight: 800;
+    }
+}

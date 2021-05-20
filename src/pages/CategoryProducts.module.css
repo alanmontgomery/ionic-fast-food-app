@@ -1,0 +1,69 @@
+.categoryPage ion-toolbar {
+
+    --border-style: none;
+}
+
+.foodResults {
+
+    color: black;
+}
+
+.chickenResults {
+
+    color: white;
+}
+
+.burgers {
+
+    --ion-background-color: #7dd5ff;
+    --ion-toolbar-background: #7dd5ff;
+    --ion-text-color: black;
+    --ion-item-background: white !important;
+}
+
+.sides {
+
+    --ion-background-color: #ffd87d;
+    --ion-toolbar-background: #ffd87d;
+    --ion-text-color: black !important;
+    --ion-item-background: white !important;
+}
+
+.chicken {
+
+    --ion-background-color: #6477fe;
+    --ion-toolbar-background: #6477fe;
+    /* --ion-text-color: white; */
+    --ion-item-background: white !important;
+    --ion-toolbar-color: white;
+}
+
+.drinks {
+
+    --ion-background-color: #fda9f3;
+    --ion-toolbar-background: #fda9f3;
+    /* --ion-text-color: white; */
+    --ion-item-background: white !important;
+}
+
+.veggie {
+
+    --ion-background-color: #9fef79;
+    --ion-toolbar-background: #9fef79;
+    /* --ion-text-color: white !important; */
+    --ion-item-background: white !important;
+}
+
+.kids {
+
+    --ion-background-color: #dc9afe;
+    --ion-toolbar-background: #dc9afe;
+    /* --ion-text-color: white; */
+    --ion-item-background: white !important;
+}
+
+.search {
+
+    --background: rgb(240, 240, 240);
+    --color: black;
+}
