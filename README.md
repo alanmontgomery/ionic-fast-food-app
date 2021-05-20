@@ -1,7 +1,7 @@
 # ionic-fast-food-app
 An example of a Food Ordering app in Ionic React
 
-![Ionic React Fast Food Ordering App](https://repository-images.githubusercontent.com/355272810/25392780-9707-11eb-95b2-bb9c6eefd313)
+![Ionic React Fast Food Ordering App](https://repository-images.githubusercontent.com/369340276/3047ce80-b9ba-11eb-8dad-5910e84d2feb)
 
 ### Included in this Ionic React Template/UI
 * Data fetching from JSON files
@@ -10,7 +10,8 @@ An example of a Food Ordering app in Ionic React
 * Fully functional add-to-cart and add-to-favourites
 * Total calculation in checkout
 * Ability to remove from cart
-* Category, Products, Single product, Cart, Favourites pages
+* Category, Foods, Single product, Cart, Favourites pages
+* Similar or 'related' foods
 * Use of stock Ionic components
 * CSS Modules
 * Ionic CSS utilities
